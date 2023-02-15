@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlaaEddineBoukhriss
-- 👀 I’m IT Infrastructure | Cloud | DevOps Engineering Student at Esprit ..
+- 👀 I’m an IT Infrastructure | Cloud | DevOps Engineering Student at Esprit ..
 
 <!---
 AlaaEddineBoukhriss/AlaaEddineBoukhriss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
